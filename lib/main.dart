@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+import 'Vista/Conexion.dart';
 
-import './MainPage.dart';
 
-void main() => runApp(new ExampleApplication());
+void main() => runApp(ExampleApplication());
 
 class ExampleApplication extends StatelessWidget {
   @override
